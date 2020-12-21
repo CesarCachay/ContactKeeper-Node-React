@@ -2,6 +2,9 @@
   "name": "contact-keeper",
   "version": "1.0.0",
   "description": "Contact Manager App",
+  "engines": {
+    "node": "12.13.0"
+  },
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
